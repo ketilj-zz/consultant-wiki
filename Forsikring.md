@@ -2,20 +2,19 @@
 
 ### Yrkesskadeforsikring
 
-Required by law. If I am injured due to work, etc.
+Lovpålagt forsikring. Denne dekker tilfeller der man blir skadet ifm arbeid osv. Må ha.
 
 ### Profesjonsansvarsforsikring
 
-Required by some brokers (such as eWork). It is liability for my consulting.
+Denne er nødvendig å ha om en går via en del brokers, for eksempel eWork. Men den kan være fornuftig å ha uansett. Forsikringen beskytter dersom virksomheten holdes erstatningsansvarlig for et økonomisk tap som en kunde eller tredjeperson er påført. Bør ha.
 
 ### Datakriminalitetforsikring
 
-This covers if I am hacked, get a virus, and lose some data or something of that nature.
+Denne forsikringen dekker tilfeller der man blir hacket, får et virus, mister verdifulle data eller tilsvarende. Ikke et "must" å ha.
 
 ### ​Bedriftsansvarforsikring/Ansvarforsikring
 
-This is liability insurance protecting against damage my company causes but not due to my work. This would cover if I spill water all over a computer. It mainly relates to physical damage or damage against a person (if I punch a client in the nose?).
+Bedriftansvarsforsikring gir beskyttelse hvis virksomheten holdes erstatningsansvarlig for en skade på ting eller personer. Ansvarsforsikring som beskytter mot skader påført ting eller personer som er forårsaket av mitt firma. Den dekker for ekspempel tilfeller der en søler vann over en datamaskin. Den gjelder i hovedsak i tilfeller der en forårsaker fysisk skade eller skader mot personer. Nice to have.
 
 ### Produktansvarforsikring
-
-This is if I work on a clients product, and the product causes damage. Software products are products. Once my consulting/advice becomes a product, I need this insurance.
+Produktansvarsforsikringen er aktuell for virksomheter som importerer, produserer eller omsetter produkter, og sikrer virksomheten økonomisk dersom produktene volder skader på personer eller ting. Når ens virksomhet/konsulenttjenester blir et produkt trenger en denne forsikringen. Nice to have.
